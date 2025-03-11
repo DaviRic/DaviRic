@@ -9,11 +9,15 @@
 
 ---
 
-## 🧐 **Sobre mim**
-Sou um profissional que está focado na área de engenharia de dados, com conhecimento e experiência em Python, Airflow e PostgreSQL. Além de conhecimento em outros bancos de dados relacionais como SQL Server, MySQL e SQLite e contato com o banco de dados não relacional MongoDB. Tenho conhecimento em cloud (aws), aprimorando meus conhecimentos nessa área para aplicação no contexto de dados. 
-- 🎯 Engenheiro de Software entusiasta da área de **Engenharia de Dados**, crio **pipelines de dados eficientes**;
+## 🔎 **Sobre mim**
+Sou um profissional focado na área de engenharia de dados, com conhecimento e experiência em **Python, Airflow e PostgreSQL**. Além de conhecimento e prática em outros bancos de dados
+relacionais como **SQL Server, MySQL e SQLite** e contato com o banco de dados não-relacional **MongoDB**. Tenho conhecimento em **cloud computing (aws)** e estou aprimorando meus conhecimentos
+nessa área para aplicação prática na engenharia de dados. 
+
+- 🎯 Entusiasta da área de **Engenharia de Dados**, crio **pipelines de dados eficientes** para transformar e movimentar informações de forma otimizada;
 - 🚀 Trabalho com **automação de processos de dados**, reduzindo tarefas manuais e otimizando fluxos de trabalho;
 - 💡 Sempre buscando aprender novas tecnologias e boas práticas da engenharia de dados para aprimorar meu conhecimento desenvolvendo projetos reais.
+- 🗃️ Integração de dados de diferentes fontes
 
 ---
 
@@ -39,8 +43,8 @@ Sou um profissional que está focado na área de engenharia de dados, com conhec
 
 ## 📊 **Estatísticas do GitHub**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DaviRic&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviRic&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DaviRic&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviRic&theme=radical"/>
 </p>
 
 ---
