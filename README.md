@@ -45,12 +45,12 @@ nessa área para aplicação prática na engenharia de dados.
 ## 📊 **Estatísticas do GitHub**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DaviRic&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviRic&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviRic&theme=radical" />
 </p>
 
 ---
 
-## 📫 **Entre em Contato**
+## 📫 **LinkedIn**
 <p align="left">
   <a href="https://www.linkedin.com/in/davicruvel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
