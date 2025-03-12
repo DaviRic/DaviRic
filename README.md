@@ -46,8 +46,8 @@ nessa área para aplicação prática na engenharia de dados.
 
 ## 📊 **Estatísticas do GitHub**
 <p>
-  <img width="430px" src="https://github-readme-stats.vercel.app/api?username=DaviRic&show_icons=true&theme=dark"/>  
-  <img width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRic&layout=compact&langs_count=8&theme=dark"/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=DaviRic&show_icons=true&theme=dark"/>  
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRic&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 ---
