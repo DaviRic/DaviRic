@@ -46,7 +46,7 @@ nessa área para aplicação prática na engenharia de dados.
 
 ## 📊 **Estatísticas do GitHub**
 <p>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/DaviRic?cardType=github&theme=dark"/>
+  <img width="440px" src="https://awesome-github-stats.azurewebsites.net/user-stats/DaviRic?cardType=github&theme=dark"/>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRic&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
