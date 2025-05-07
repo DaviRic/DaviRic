@@ -34,7 +34,6 @@ nessa área para aplicação prática na engenharia de dados.
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=&logo=apache-airflow&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=&logo=pandas&logoColor=white)
 [![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apache-spark&logoColor=white)](https://spark.apache.org/)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=&logo=microsoft-excel&logoColor=black)
 
 📦 **Outras Tecnologias**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=&logo=git&logoColor=white)
