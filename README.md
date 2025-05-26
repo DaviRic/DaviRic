@@ -12,7 +12,7 @@
 
 ## 🔎 **Sobre mim**
 Engenheiro de dados com experiência em desenvolvimento de pipelines de dados para ingestão, transformação e orquestração de workflows. Possuo domínio em `Python`, `Apache Airflow`, e
-bancos de dados relavionais como `PostgreSQL`, `SQL Server`, `MySQL` e `SQLite`, além de ter conhecimento com `MongoDB` (banco de dado não-relacional). <p>
+bancos de dados relacionais como `PostgreSQL`, `SQL Server`, `MySQL` e `SQLite`, além de ter conhecimento com `MongoDB` (banco de dados não-relacional). <p>
 Atualmente, estou aprofundando meus conhecimentos em *Big Data* e *Cloud Computing*, com foco em `Apache Spark`, `Databricks` e `GCP` e `AWS` para cloud, aplicnado esses conceitos
 em projetos próprios com processamento distribuído e Data Lakes.
 
