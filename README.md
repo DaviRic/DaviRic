@@ -57,11 +57,5 @@ em projetos próprios com processamento distribuído e Data Lakes.
 ---
 
 ## 📫 **LinkedIn & Gmail**
-<p align="left">
-  <a href="https://www.linkedin.com/in/davicruvel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
-  <a href="mailto:davi.r.cruvel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davicruvel/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:davi.r.cruvel@gmail.com)
